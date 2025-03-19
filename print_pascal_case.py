@@ -1,5 +1,5 @@
 #ask user to input their full name
-user_string = input("input your full name = ")
+user_string = input("input your full name in incorrect casing = ")
 
 #convert casing of user string to lowercase
 step_one = user_string.lower()
