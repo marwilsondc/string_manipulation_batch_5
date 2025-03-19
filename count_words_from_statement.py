@@ -5,4 +5,4 @@ user_string = input("input a statement (length of desired amount) = ")
 string_list = user_string.split()
 
 #utilize count() to return number of words in user string
-print(string_list.count())
+print(len(string_list))
